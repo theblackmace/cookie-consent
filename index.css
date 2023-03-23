@@ -155,3 +155,7 @@ input{
     margin-bottom: 0;
 }
 
+
+.reverse {
+    flex-direction: row-reverse;
+}
